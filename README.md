@@ -10,7 +10,8 @@ A simple command-line Rock Paper Scissor game in Python. Play against the comput
 
 ## How to Run
 1. Install Python 3
-2. Run: python rock_paper_scissor.py
+2. Run: python stone_paper_game.py
+
 3. Type rock, paper or scissor and press Enter
 
 ## Rules
