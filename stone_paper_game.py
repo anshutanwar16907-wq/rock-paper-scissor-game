@@ -47,6 +47,6 @@ while True:
     print("User_score",user_score)
     print("Computer_score",computer_score)
 
-    print("-----THANKYOU FOR PLAYING-----")
-
+print("\n-----THANKYOU FOR PLAYING-----")
+print("Final Score -> You:", user_score, "| Computer:", computer_score)
     
